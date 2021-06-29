@@ -54,7 +54,7 @@ class App extends StatelessWidget {
                       Column(
                         children: [
                         const Text(
-                            'KBOYのFlutter',
+                            'yasuのFlutter',
                       ),
                           TextButton(
                             child: Row(
